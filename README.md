@@ -12,9 +12,9 @@ Improve your skills by tackling a new Postman challenge for 30 days in a row. <b
 | Day 0	| Easy | Pre-requisites | ✅
 | Day 1	| Easy | Fork a collection | ✅
 | Day 2 | Medium | Collections and environments | ✅
-| Day 3 | Easy | Add request details
-| Day 4 | Medium | Authorization
-| Day 5 | Medium | Variables
+| Day 3 | Easy | Add request details | ✅
+| Day 4 | Medium | Authorization | ✅
+| Day 5 | Medium | Variables | ✅
 | Day 6 | Medium | Tests
 | Day 7 | Easy | Debugging
 | Day 8 | Medium | Run a collection
