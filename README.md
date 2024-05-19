@@ -17,7 +17,7 @@ Improve your skills by tackling a new Postman challenge for 30 days in a row. <b
 | Day 5 | Medium | Variables | ✅
 | Day 6 | Medium | Tests | ✅
 | Day 7 | Easy | Debugging | ✅
-| Day 8 | Medium | Run a collection
+| Day 8 | Medium | Run a collection | ✅
 | Day 9 | Medium | Scripting
 | Day 10 | Easy | Mock services
 | Day 11 | Medium | Monitoring
