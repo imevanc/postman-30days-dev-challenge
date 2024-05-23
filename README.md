@@ -20,7 +20,7 @@ Improve your skills by tackling a new Postman challenge for 30 days in a row. <b
 | Day 8 | Medium | Run a collection | ✅
 | Day 9 | Medium | Scripting | ✅
 | Day 10 | Easy | Mock services | ✅
-| Day 11 | Medium | Monitoring
+| Day 11 | Medium | Monitoring | ✅
 | Day 12 | Medium | Postman API
 | Day 13 | Hard | Newman
 | Day 14 | Easy | OAuth
