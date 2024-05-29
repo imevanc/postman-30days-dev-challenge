@@ -23,7 +23,7 @@ Improve your skills by tackling a new Postman challenge for 30 days in a row. <b
 | Day 11 | Medium | Monitoring | ✅
 | Day 12 | Medium | Postman API | ✅
 | Day 13 | Hard | Newman | ✅
-| Day 14 | Easy | OAuth
+| Day 14 | Easy | OAuth | ✅
 | Day 15 | Easy | Write to file
 | Day 16 | Hard | Pagination
 | Day 17 | Hard | Visualizations
