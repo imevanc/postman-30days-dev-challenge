@@ -27,7 +27,7 @@ Improve your skills by tackling a new Postman challenge for 30 days in a row. <b
 | Day 15 | Easy | Write to file | ✅
 | Day 16 | Hard | Pagination | ✅
 | Day 17 | Hard | Visualizations | ✅
-| Day 18 | Hard | API specifications
+| Day 18 | Hard | API specifications | ✅
 | Day 19 | Hard | GraphQL
 | Day 20 | Easy | Documentation
 | Day 21 | Medium | WebSockets
