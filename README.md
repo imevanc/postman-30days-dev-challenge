@@ -31,7 +31,7 @@ Improve your skills by tackling a new Postman challenge for 30 days in a row. <b
 | Day 19 | Hard | GraphQL | ✅
 | Day 20 | Easy | Documentation | ✅
 | Day 21 | Medium | WebSockets | ✅
-| Day 22 | Easy | Public profile
+| Day 22 | Easy | Public profile | ✅
 | Day 23 | Easy | Data files
 | Day 24 | Medium | Using libraries
 | Day 25 | Hard | Dynamic request bodies
