@@ -55,11 +55,11 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://www.google.com/search?q=postman",
+							"raw": "https://www.bing.com/search?q=postman",
 							"protocol": "https",
 							"host": [
 								"www",
-								"google",
+								"bing",
 								"com"
 							],
 							"path": [
